@@ -61,3 +61,20 @@ where:
 **Theorem 2.** *If the coefficient θₖ of a graph filter can have negative values and learned adaptively, the graph filter will pass low and high frequency signals appropriately.*
 
 
+
+---
+
+## ⚙️ Installation & Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/hyowonwi/agf.git
+cd agf
+```
+
+For detailed instructions on installation, dataset preparation, and running experiments, please refer to the README in each subdirectory:
+
+| Task | Directory | README |
+|:-----|:----------|:-------|
+| **Long Range Arena (LRA)** | `AGF_LRA/` | [📖 AGF_LRA/README.md](AGF_LRA/README.md) |
+| **UEA Time Series Classification** | `AGF_UEA/` | [📖 AGF_UEA/README.md](AGF_UEA/README.md) |
