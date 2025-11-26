@@ -100,3 +100,10 @@ If you find this work useful, please cite our paper:
   url       = {https://doi.org/10.24963/ijcai.2025/730},
 }
 ```
+
+---
+
+<div align="center">
+<p>If you have any questions, please open an issue or contact us at <a href="mailto:hyowon.wi@kaist.ac.kr">hyowon.wi@kaist.ac.kr</a> or <a href="mailto:jeongwhan.choi@kaist.ac.kr">jeongwhan.choi@kaist.ac.kr</a></p>
+<p>⭐ Star this repository if you find it helpful!</p>
+</div>
